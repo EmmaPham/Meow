@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6de6bd45488585409c1d7985633c22e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - landClip: {instanceID: 0}
+  - deathClip: {instanceID: 0}
+  - breakableClip: {instanceID: 0}
+  - gameOverClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
